@@ -1,0 +1,39 @@
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.gradle
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/target/
+/logs/
+
+/config/application.yml
+
+service-status
+.swagger-codegen-ignore
+.swagger-codegen/
+logs/
+target/
+
+ansible/roles
+ansible/*.retry
+/src/main/resources/application-local.yml
